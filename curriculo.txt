@@ -1,0 +1,4 @@
+Nome: Pedro Bezerra 
+Objetivo: Me tornar um desenvolvedor fullstack (e ter grana) 
+Habilidades: Python, Git, JavaScript, HTML e CSS 
+Curiosidade: Eu sou tecladista, estou aprendendo a tocar guitarra, minha comida preferida ‚ churrasco 
