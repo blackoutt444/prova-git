@@ -1,0 +1,2 @@
+Projeto: Conversor de Áudio > projetos\projeto1.txt
+Descrição: Um site em Python que baixa vídeos do YouTube e converte em MP3 usando PyDub e yt-dlp.
